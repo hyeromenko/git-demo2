@@ -1,0 +1,2 @@
+hannayeromenko@Hanna-Yeromenko git-demo2 % git checkout main 
+Switched to branch 'main'
